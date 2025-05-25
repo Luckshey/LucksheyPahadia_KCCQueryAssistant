@@ -1,0 +1,6 @@
+Transformers
+streamlit 
+sentence-transformers 
+faiss-cpu 
+bitsandbytes
+localtunnel
